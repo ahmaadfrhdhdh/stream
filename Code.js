@@ -15,4 +15,4 @@ if (message.content.startsWith(prefix + 's')) {
 
 });
 
-client.login(TOKEN);
+client.login(NDExODY2MjI0NjkyMDM1NTg0.Dt12Hg.8DR7aTFCdj65F_qhP0tIPlXA8lY);
